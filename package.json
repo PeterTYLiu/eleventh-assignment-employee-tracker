@@ -1,0 +1,25 @@
+{
+  "name": "eleventh-assignment-employee-tracker",
+  "version": "1.0.0",
+  "description": "Assignment 11: Employee Tracker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterTYLiu/eleventh-assignment-employee-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterTYLiu/eleventh-assignment-employee-tracker/issues"
+  },
+  "homepage": "https://github.com/PeterTYLiu/eleventh-assignment-employee-tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.1.0",
+    "mysql2": "^2.1.0"
+  }
+}
